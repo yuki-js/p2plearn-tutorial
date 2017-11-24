@@ -1,0 +1,18 @@
+.carItm {
+  text-align: center;
+  width: 50%; }
+  .carItm img {
+    max-width: 100%;
+    max-height: 240px; }
+  .carItm p {
+    text-align: left;
+    margin: 5.4%; }
+
+.logo h1 {
+  text-align: center; }
+
+.tutWrap {
+  width: 297mm;
+  height: 210mm;
+  display: flex;
+  flex-wrap: wrap; }
